@@ -1,6 +1,6 @@
 Start the script with these parameters: 
 
-python folder_backup.py <source directory path> <backup directory path> <backup period in seconds> <log file path>
+python folder_backup.py <source_directory_path> <backup_directory_path> <backup_period_in_seconds> <log_file_path>
 
 Example of the command line entry to run the script:
  
